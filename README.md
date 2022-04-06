@@ -24,12 +24,14 @@ In this research we use a qualitative approach to explore how special education 
 Every child has the right to the same opportunities as others, regardless of the difficulties they face. Special education is of great importance for children with learning disabilities, because it gives them the opportunity to get quality education in line with their unique needs. Special education enables every student to gain a high level of independence and reach their full potential.  This provides a legal framework for all issues related to the lives of persons with disabilities, and it includes explicit language stating that children with disabilities have the right to receive education in an inclusive setting and with the supports needed to succeed. The extent to which children with disabilities are deprived, feel discriminated against and lack hope for the future makes it clear that societies are not doing enough to realize the most basic human rights of all children. As a result, the vicious cycle of exclusion and disadvantage that leaves children with disabilities behind continues. Including children with disabilities in all aspects of life must be a priority. Every child, everywhere, has something to offer. His or her energies, talents and ideas can make a positive difference to families, communities and the world. The report seeks to increase the inclusion of children and young people with disabilities worldwide by ensuring they are counted, consulted and considered in decision-making.
 
 ## References
-- https://vikaspedia.in/education/parents-corner/guidelines-for-parents-of-children-with-disabilities/education-for-children-with-special-needs?fbclid=IwAR3DujMos-elLp9pRfTcq_bTHGVbsN7pqTKAHc_nSMbAeqclSEjwEZUMEWU
-- https://www.nidirect.gov.uk/articles/children-special-educational-needs?fbclid=IwAR3xUFCX0VeJI4uMV_Hy5vTANQDj_ewQ0EvY7r1nVNOEnWYYftShXJMXSzo
-- https://nces.ed.gov/programs/coe/indicator/cgg?fbclid=IwAR1TvOuP1VChGoGgoa2Ud88EVMmDObyKvVDPw01tt4NeOmDB0yxQfSIBQYA
-- https://plan-international.org/education/inclusive-education-children-disability/?fbclid=IwAR1IEbO6hKc2W1Y-QlqCSncWo0Kw3GO_LDo8IZr_OlmGHenp7P-JwBcLiIk
-- https://data.unicef.org/resources/children-with-disabilities-report-2021/?fbclid=IwAR2FzSN_1gVNGtfwKii54wIDvGhRPEEgG5rpAy1H2qdLQyslqfSatj81Cho
-- https://www.sciencedirect.com/science/article/pii/S1877042811005805?fbclid=IwAR1nQ9GYaHJ4yAYZ8h20zfqB2gnSVIlXWgIzhuj8CgK0Fs-T6T3O9AhVAxg
-- https://data.unicef.org/resources/education-for-children-with-disabilities/?fbclid=IwAR1TvOuP1VChGoGgoa2Ud88EVMmDObyKvVDPw01tt4NeOmDB0yxQfSIBQYA
-- https://www.bartleby.com/essay/The-Importance-of-Education-for-Children-with-PK9PTUSTC?fbclid=IwAR1IEbO6hKc2W1Y-QlqCSncWo0Kw3GO_LDo8IZr_OlmGHenp7P-JwBcLiIk
+- https://data.unicef.org/resources/education-for-children-with-disabilities/
+- https://nces.ed.gov/programs/coe/indicator/cgg
+- https://www.nidirect.gov.uk/articles/children-special-educational-needs
+- https://vikaspedia.in/education/parents-corner/guidelines-for-parents-of-children-with-disabilities/education-for-children-with-special-needs
+- https://plan-international.org/education/inclusive-education-children-disability/
+- https://www.sciencedirect.com/science/article/pii/S1877042811005805
+- https://data.unicef.org/resources/children-with-disabilities-report-2021/
+- https://www.bartleby.com/essay/The-Importance-of-Education-for-Children-with-PK9PTUSTC
+- https://ivypanda.com/essays/the-problems-of-children-with-disabilities-and-possible-ways-of-solution-research-paper/
+- https://data.unicef.org/resources/education-for-children-with-disabilities/
 
