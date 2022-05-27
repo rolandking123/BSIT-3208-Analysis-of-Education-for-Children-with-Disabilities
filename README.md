@@ -1,11 +1,11 @@
 # Analysis of Education for Children with Disabilities
 
-#ALT4
-Calingasan, Zyrine Joy
-Calderon, Roland
-Corona, Ashley 
-Mendoza, Jhanna Mae
-Papasin, Shaira Mae
+## ALT4
+Calingasan, Zyrine Joy <br>
+Calderon, Roland  <br>
+Corona, Ashley  <br>
+Mendoza, Jhanna Mae  <br>
+Papasin, Shaira Mae <br>
 
 
 
