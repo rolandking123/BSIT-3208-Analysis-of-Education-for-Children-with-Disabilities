@@ -34,6 +34,9 @@ Every child has the right to the same opportunities as others, regardless of the
 
 The objectives of this study is to identify a good education for children with disabilities, to understand the concept of schooling needed by children with disabilities, as well as determining the importance of resolving children with disabilities problems. This provides a data visualization for the issues related to the children with disabilities, and it includes that children with disabilities have the right to receive education in an inclusive setting and with the supports needed to succeed. As a result, the vicious cycle of exclusion and disadvantage that leaves children with disabilities behind continues. It must be a top priority to include children with disabilities in all parts of life. Every child, no matter where they are, has something to contribute. His or her talents, ideas, and energies have the potential to positively impact families, communities, and the world. The study aims to promote the global inclusion of children and young people with disabilities by ensuring that they are counted, consulted, and taken into account when making decisions. 
 
+##Sustainable Development Goals(SDG)
+
+
 ## References
 - https://data.unicef.org/resources/education-for-children-with-disabilities/
 - https://nces.ed.gov/programs/coe/indicator/cgg
